@@ -58,7 +58,7 @@ dependencies {
     implementation libs.material
 
 
-    //implementation 'com.github.MrFaheem007:AwesomeAds:master-SNAPSHOT'
+  //  implementation 'com.github.MrFaheem007:AwesomeAds:v1.0.0'
 
 
 
