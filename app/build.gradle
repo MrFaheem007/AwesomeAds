@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsKotlinAndroid)
+
 }
 
 android {
@@ -56,6 +57,8 @@ dependencies {
     implementation libs.androidx.appcompat
     implementation libs.material
 
+
+    //implementation 'com.github.MrFaheem007:AwesomeAds:master-SNAPSHOT'
 
 
 
